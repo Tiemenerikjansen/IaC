@@ -1,7 +1,7 @@
 @description('Admin username')
 param adminUsername string
 
-@description('Admin password')
+@description('Admin passsword')
 @secure()
 param adminPassword string
 
